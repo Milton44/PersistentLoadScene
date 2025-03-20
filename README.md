@@ -5,7 +5,7 @@ Persistent Scene Loader is a tool that forces the first game scene to always loa
 <p align="center">
     <a href="https://unity3d.com/get-unity/download">
         <img src="https://img.shields.io/badge/unity-tools-blue" alt="Unity Download Link"></a>
-    <a href="https://github.com/Milton44/PersistentLoadScene/blob/master/LICENSE.md">
+    <a href="https://github.com/Milton44/persistent-scene-loader/blob/master/LICENSE.md">
         <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License MIT"></a>
 </p>
 
@@ -13,7 +13,7 @@ Persistent Scene Loader is a tool that forces the first game scene to always loa
 
 Simple Unity Extra Extensions can be installed directly through the git url
 ```
-https://github.com/Milton44/PersistentLoadScene
+https://github.com/Milton44/persistent-scene-loader.git
 ```
 
 If you need more information about installing package from a Git URL, you can click [here](https://docs.unity3d.com/Manual/upm-ui-giturl.html). :slightly_smiling_face:
