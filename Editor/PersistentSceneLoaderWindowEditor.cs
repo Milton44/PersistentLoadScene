@@ -2,7 +2,7 @@ using UnityEditor.SceneManagement;
 using UnityEditor;
 using UnityEngine;
 
-namespace Unity.PackageExample.Editor
+namespace Milton.PersistentSceneLoader.Editor
 {
     public class PersistentSceneLoaderWindowEditor : EditorWindow
     {
